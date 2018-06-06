@@ -1,4 +1,3 @@
-var i;
-var l;
+var i,j;
 
 j = i + i;
